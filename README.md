@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my first Git Repository
-author - Naim Shah
+this is my first Git Repository.
+<br>
+Author - Naim Shah
